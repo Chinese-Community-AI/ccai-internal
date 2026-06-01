@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "design-system": { "title": "Design System", "order": 2 },
+  "critique": { "title": "Critique & Handoff", "order": 3 }
+}

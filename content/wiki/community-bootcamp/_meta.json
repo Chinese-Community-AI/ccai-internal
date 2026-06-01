@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "events": { "title": "Events Playbook", "order": 2 },
+  "moderation": { "title": "Moderation", "order": 3 }
+}

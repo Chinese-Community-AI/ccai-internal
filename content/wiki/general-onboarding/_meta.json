@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "first-week": { "title": "Your First Week", "order": 2 },
+  "tools-and-access": { "title": "Tools & Access", "order": 3 }
+}

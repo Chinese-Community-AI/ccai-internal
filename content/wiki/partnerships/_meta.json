@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "universities": { "title": "Universities", "order": 2 },
+  "sponsors": { "title": "Sponsors & Allies", "order": 3 }
+}

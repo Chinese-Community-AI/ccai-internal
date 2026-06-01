@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "getting-started": { "title": "Getting Started", "order": 2 },
+  "code-of-conduct": { "title": "Code of Conduct", "order": 3 }
+}

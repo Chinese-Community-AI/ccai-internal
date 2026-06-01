@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "governance": { "title": "Governance", "order": 2 },
+  "releases": { "title": "Releases", "order": 3 }
+}

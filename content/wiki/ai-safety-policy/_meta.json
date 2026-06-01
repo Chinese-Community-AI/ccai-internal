@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "guidelines": { "title": "Product Guidelines", "order": 2 },
+  "reviews": { "title": "Safety Reviews", "order": 3 }
+}

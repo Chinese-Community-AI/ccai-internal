@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "locales": { "title": "Locales & Style", "order": 2 },
+  "workflow": { "title": "Translation Workflow", "order": 3 }
+}

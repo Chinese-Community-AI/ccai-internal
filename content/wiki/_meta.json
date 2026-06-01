@@ -1,0 +1,59 @@
+{
+  "sections": [
+    { "id": "start", "title": "Start here", "order": 0 },
+    { "id": "roles", "title": "Role bootcamps", "order": 1 },
+    { "id": "programs", "title": "Programs & policy", "order": 2 },
+    { "id": "oss", "title": "Open source & community", "order": 3 }
+  ],
+  "spaces": {
+    "general-onboarding": {
+      "title": "General Onboarding",
+      "order": 1,
+      "section": "start"
+    },
+    "glossary": { "title": "Glossary", "order": 2, "section": "start" },
+    "contributing": {
+      "title": "Contributing to the Wiki",
+      "order": 3,
+      "section": "start"
+    },
+    "eng-bootcamp": { "title": "Eng Bootcamp", "order": 1, "section": "roles" },
+    "product-bootcamp": { "title": "Product Bootcamp", "order": 2, "section": "roles" },
+    "design-bootcamp": { "title": "Design Bootcamp", "order": 3, "section": "roles" },
+    "marketing-bootcamp": {
+      "title": "Marketing Bootcamp",
+      "order": 4,
+      "section": "roles"
+    },
+    "community-bootcamp": {
+      "title": "Community Bootcamp",
+      "order": 5,
+      "section": "roles"
+    },
+    "data-bootcamp": { "title": "Data Bootcamp", "order": 6, "section": "roles" },
+    "operations": { "title": "Operations & Admin", "order": 7, "section": "roles" },
+    "research-bootcamp": {
+      "title": "Research Bootcamp",
+      "order": 1,
+      "section": "programs"
+    },
+    "ai-safety-policy": {
+      "title": "AI Safety & Policy",
+      "order": 2,
+      "section": "programs"
+    },
+    "partnerships": { "title": "Partnerships", "order": 3, "section": "programs" },
+    "university-campus": {
+      "title": "University & Campus",
+      "order": 4,
+      "section": "programs"
+    },
+    "localization": { "title": "Localization (i18n)", "order": 5, "section": "programs" },
+    "open-source": { "title": "Open Source Program", "order": 1, "section": "oss" },
+    "volunteer-contributor": {
+      "title": "Volunteer & Contributor",
+      "order": 2,
+      "section": "oss"
+    }
+  }
+}

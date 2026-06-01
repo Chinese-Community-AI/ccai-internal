@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "brand": { "title": "Brand & Voice", "order": 2 },
+  "campaigns": { "title": "Campaigns", "order": 3 }
+}

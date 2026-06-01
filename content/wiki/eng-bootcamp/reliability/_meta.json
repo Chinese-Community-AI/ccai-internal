@@ -1,0 +1,10 @@
+{
+  "reaction": {
+    "title": "Reaction",
+    "order": 3
+  },
+  "prevention": {
+    "title": "Prevention",
+    "order": 2
+  }
+}

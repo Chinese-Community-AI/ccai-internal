@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "discovery": { "title": "Discovery & Research", "order": 2 },
+  "specs": { "title": "Writing Specs", "order": 3 }
+}

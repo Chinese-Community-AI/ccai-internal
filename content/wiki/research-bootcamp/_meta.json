@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "reading-group": { "title": "Reading Group", "order": 2 },
+  "benchmarks": { "title": "Benchmarks & Evals", "order": 3 }
+}

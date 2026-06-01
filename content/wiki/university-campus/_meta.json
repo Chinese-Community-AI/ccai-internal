@@ -1,0 +1,5 @@
+{
+  "overview": { "title": "Overview", "order": 1 },
+  "student-leads": { "title": "Student Leads", "order": 2 },
+  "hackathons": { "title": "Campus Hackathons", "order": 3 }
+}
