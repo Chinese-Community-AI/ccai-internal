@@ -34,6 +34,10 @@ order: 1
 | **E2E test** | End-to-end test of a full user journey through the running app |
 | **Test pyramid** | Strategy: many unit tests, fewer integration, fewest E2E |
 | **Flaky test** | Test that passes and fails non-deterministically — treated as a bug |
+| **Smoke test** | Minimal post-deploy check that core paths work |
+| **Canary deploy** | Release to a small traffic slice before full rollout |
+| **Load test** | Performance test under expected or peak traffic |
+| **Performance budget** | Agreed latency/throughput limits a release must meet |
 
 ## Product & data
 

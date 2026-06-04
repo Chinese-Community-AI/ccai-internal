@@ -20,7 +20,9 @@ Software engineers and technical contributors. Complete [General Onboarding](/wi
 
 | Track | Description |
 | ----- | ----------- |
-| [Testing Guide](/wiki/engineering-bootcamp/testing-guide/overview) | How we think about and write tests |
+| [Testing Guide](/wiki/engineering-bootcamp/testing-guide/overview) | Pre-merge tests + post-merge/release validation |
+| [Fundamentals of Testing](/wiki/engineering-bootcamp/testing-guide/fundamentals-of-testing/overview) | Unit, integration, E2E basics |
+| [Post-merge & Deployment](/wiki/engineering-bootcamp/testing-guide/post-merge-and-deployment/overview) | Build/release, canary, performance |
 | [Reliability → Reaction](/wiki/engineering-bootcamp/reliability/reaction) | SLI/SLO, incident tooling |
 | [Reliability → Prevention](/wiki/engineering-bootcamp/reliability/prevention) | Proactive reliability practices |
 

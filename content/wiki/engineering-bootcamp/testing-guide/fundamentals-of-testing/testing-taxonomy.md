@@ -31,6 +31,8 @@ Use the same terms across repos so reviews and CI policies stay aligned. When in
 | **Characterization test** | Documents legacy behavior before refactor (not ideal design, but useful) |
 | **Manual / exploratory** | Human-driven; not automated — still required for UX and edge cases |
 
+Post-merge stages (build/release, canary, performance) are covered in [Post-merge & Deployment](/wiki/engineering-bootcamp/testing-guide/post-merge-and-deployment/overview).
+
 ## Decision guide
 
 Answer in order:

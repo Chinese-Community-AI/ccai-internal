@@ -23,6 +23,7 @@ All engineers. Read [Engineering Bootcamp overview](/wiki/engineering-bootcamp/o
 | [Fundamentals of Testing](/wiki/engineering-bootcamp/testing-guide/fundamentals-of-testing/overview) | Why we test, test pyramid, ownership |
 | [Testing Taxonomy](/wiki/engineering-bootcamp/testing-guide/fundamentals-of-testing/testing-taxonomy) | Unit, integration, E2E, and when to use each |
 | [Writing Tests](/wiki/engineering-bootcamp/testing-guide/fundamentals-of-testing/writing-tests) | Structure, naming, assertions, and PR expectations |
+| [Post-merge & Deployment](/wiki/engineering-bootcamp/testing-guide/post-merge-and-deployment/overview) | Build/release, canary, and performance after merge |
 
 ## Principles
 
