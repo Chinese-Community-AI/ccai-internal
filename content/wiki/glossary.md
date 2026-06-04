@@ -14,7 +14,7 @@ order: 1
 | ---- | ---------- |
 | **CCAI** | Chinese Community AI — our organization |
 | **Bootcamp** | Structured onboarding track for a role or function (not a single event) |
-| **Space** | Top-level wiki section (e.g. Eng Bootcamp, Partnerships) |
+| **Space** | Top-level wiki section (e.g. Engineering Bootcamp, Partnerships) |
 
 ## Engineering & reliability
 
@@ -24,6 +24,16 @@ order: 1
 | **SLO** | Service Level Objective — target range for an SLI over a time window |
 | **TTM** | Time to mitigate — elapsed time until impact is stopped or bounded |
 | **On-call** | Rotation responsible for triaging production incidents |
+
+## Testing
+
+| Term | Definition |
+| ---- | ---------- |
+| **Unit test** | Verifies a small unit of code in isolation (fast, no I/O) |
+| **Integration test** | Verifies multiple components together (DB, API, filesystem) |
+| **E2E test** | End-to-end test of a full user journey through the running app |
+| **Test pyramid** | Strategy: many unit tests, fewer integration, fewest E2E |
+| **Flaky test** | Test that passes and fails non-deterministically — treated as a bug |
 
 ## Product & data
 

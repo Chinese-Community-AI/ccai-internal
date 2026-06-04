@@ -33,7 +33,7 @@ Content is **read-only** on this site. Updates ship through git — see [Contrib
 
 | Bootcamp | Primary audience | Start page |
 | -------- | ---------------- | ---------- |
-| [Eng](/wiki/eng-bootcamp/overview) | Software engineers | [Reliability → Reaction](/wiki/eng-bootcamp/reliability/reaction) |
+| [Engineering](/wiki/engineering-bootcamp/overview) | Software engineers | [Testing Guide](/wiki/engineering-bootcamp/testing-guide/overview) |
 | [Product](/wiki/product-bootcamp/overview) | PMs, TPMs | [Discovery](/wiki/product-bootcamp/discovery) |
 | [Design](/wiki/design-bootcamp/overview) | Designers | [Design System](/wiki/design-bootcamp/design-system) |
 | [Marketing](/wiki/marketing-bootcamp/overview) | Marketing, growth | [Brand & Voice](/wiki/marketing-bootcamp/brand) |

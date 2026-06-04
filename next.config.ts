@@ -1,7 +1,20 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  async redirects() {
+    return [
+      {
+        source: "/wiki/eng-bootcamp",
+        destination: "/wiki/engineering-bootcamp/overview",
+        permanent: true,
+      },
+      {
+        source: "/wiki/eng-bootcamp/:path*",
+        destination: "/wiki/engineering-bootcamp/:path*",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

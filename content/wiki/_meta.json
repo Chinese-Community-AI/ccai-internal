@@ -17,7 +17,11 @@
       "order": 3,
       "section": "start"
     },
-    "eng-bootcamp": { "title": "Eng Bootcamp", "order": 1, "section": "roles" },
+    "engineering-bootcamp": {
+      "title": "Engineering Bootcamp",
+      "order": 1,
+      "section": "roles"
+    },
     "product-bootcamp": { "title": "Product Bootcamp", "order": 2, "section": "roles" },
     "design-bootcamp": { "title": "Design Bootcamp", "order": 3, "section": "roles" },
     "marketing-bootcamp": {

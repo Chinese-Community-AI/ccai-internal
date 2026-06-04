@@ -11,7 +11,7 @@ content/wiki/
 ├── glossary.md             # Canonical terms
 ├── contributing.md         # How to edit (this workflow)
 ├── _templates/             # Copy-paste starters (not published)
-└── <space>/                # e.g. eng-bootcamp/
+└── <space>/                # e.g. engineering-bootcamp/
     ├── _meta.json          # Child page titles & order
     ├── overview.md         # Space landing (/wiki/<space>/overview)
     └── <topic>.md

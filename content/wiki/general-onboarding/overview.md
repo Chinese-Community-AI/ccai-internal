@@ -29,7 +29,7 @@ Choose one primary track; skim others as needed:
 
 | Track | Space |
 | ----- | ----- |
-| Engineering | [Eng Bootcamp](/wiki/eng-bootcamp/overview) |
+| Engineering | [Engineering Bootcamp](/wiki/engineering-bootcamp/overview) |
 | Product | [Product Bootcamp](/wiki/product-bootcamp/overview) |
 | Design | [Design Bootcamp](/wiki/design-bootcamp/overview) |
 | Marketing | [Marketing Bootcamp](/wiki/marketing-bootcamp/overview) |

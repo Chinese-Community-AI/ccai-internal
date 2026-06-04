@@ -52,7 +52,7 @@ order: 1                # sidebar order within folder
 
 ## Naming conventions
 
-- **Folders** — `kebab-case` (e.g. `eng-bootcamp`, `ai-safety-policy`)
+- **Folders** — `kebab-case` (e.g. `engineering-bootcamp`, `ai-safety-policy`)
 - **Files** — `kebab-case.md`; use `overview.md` for space landing pages
 - **URLs** — mirror path: `content/wiki/foo/bar.md` → `/wiki/foo/bar`
 
